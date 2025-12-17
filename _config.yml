@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Claire Cahill
 description              : Claire Cahill - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/portfolio-fa25-fa25-portfolio-clairec2026"
 
 # Theme and Style
 theme: jekyll-theme-minimal
