@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Engineering Ethics Final
+image: /assets/images/function-graph.png
 description: Final report for MAE 4300 (Engineering Ethics)
 ---
 
